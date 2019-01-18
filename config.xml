@@ -1,0 +1,12 @@
+<data>  
+    <details>
+       <smtpuser>adminsmtp</smtpuser>
+       <smtppassword>passsmtp</smtppassword>
+       <smtp_host>http://10.01.0.149</smtp_host>
+       <smtp_port>admin</smtp_port>
+       <mq_host>10.10.0.222</mq_host>
+       <mq_port>admin</mq_port>
+       <mq_user>15672</mq_user>
+       <mq_pass>15672</mq_pass>
+    </details>
+</data>

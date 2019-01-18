@@ -1,0 +1,6 @@
+17:24:58 CRITICAL Could not get addresses to use: [Errno 11001] getaddrinfo failed (10.10.0.2221)
+17:24:58 ERROR Connection open failed - gaierror(11001, 'getaddrinfo failed')
+17:24:58 ERROR [Errno 11001] getaddrinfo failed
+11:11:17 CRITICAL Could not get addresses to use: [Errno 11001] getaddrinfo failed (10.10.0.2221)
+11:11:17 ERROR Connection open failed - gaierror(11001, 'getaddrinfo failed')
+11:11:17 ERROR [Errno 11001] getaddrinfo failed
